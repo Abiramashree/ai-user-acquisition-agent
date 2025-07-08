@@ -13,4 +13,6 @@ This lightweight prototype simulates an agentic AI system designed to support on
 
 - Stores feedback for future memory and iterative improvement
 
+This project is a basic starting point intended to help developers and enthusiasts understand how to structure agentic AI logic in a practical context. It’s not production-ready but offers a modular foundation that can be extended or refined based on real-world needs
+
 
